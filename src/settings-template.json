@@ -1,5 +1,0 @@
-{
-  "NotionAPI": "Enter your Notion API KEY",
-  "DatabaseID": "Notion database id of the calender",
-  "SettingsDatabaseID": "Notion database id of the settings for this module"
-}

@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "@notionhq/client": "^2.2.3",
-    "sync-calendar-module": "^0.1.3"
+    "dotenv": "^16.0.3"
   }
 }
